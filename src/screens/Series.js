@@ -17,7 +17,9 @@ return(
       </View>
 
       <View style={styles.listaItem}>
+      <TouchableHighlight onPress={() => Linking.openURL('https://www.youtube.com/watch?v=E8cXKMR9a1Q')}>
         <Image  style={styles.foto} source={require('../img/serieComedia2.jpg')} />
+        </TouchableHighlight>
         <View style={styles.data}>
             <Text style={styles.nombre}>Rick y Morty</Text>
             <Text style={styles.descripcion}>Temporadas: 5</Text>
@@ -25,7 +27,9 @@ return(
       </View>
 
       <View style={styles.listaItem}>
+      <TouchableHighlight onPress={() => Linking.openURL('https://www.youtube.com/watch?v=fAFn9kZGX8s')}>
         <Image  style={styles.foto} source={require('../img/serieComedia3.jpg')} />
+        </TouchableHighlight>
         <View style={styles.data}>
             <Text style={styles.nombre}>Modern Family</Text>
             <Text style={styles.descripcion}>Temporadas: 11</Text>
@@ -33,7 +37,9 @@ return(
       </View>
 
       <View style={styles.listaItem}>
+      <TouchableHighlight onPress={() => Linking.openURL('https://www.youtube.com/watch?v=4iveIYz-irQ')}>
         <Image  style={styles.foto} source={require('../img/serieComedia4.jpg')} />
+        </TouchableHighlight>
         <View style={styles.data}>
             <Text style={styles.nombre}>Dos hombres y medio</Text>
             <Text style={styles.descripcion}>Temporadas: 12</Text>
@@ -41,7 +47,9 @@ return(
       </View>
 
       <View style={styles.listaItem}>
+      <TouchableHighlight onPress={() => Linking.openURL('https://www.youtube.com/watch?v=-pdCvr2sQw4')}>
         <Image  style={styles.foto} source={require('../img/serieComedia5.jpg')} />
+        </TouchableHighlight>
         <View style={styles.data}>
             <Text style={styles.nombre}>Los Simpson</Text>
             <Text style={styles.descripcion}>Temporadas: 33</Text>
@@ -53,7 +61,9 @@ return(
     <View style={styles.listado}>
     <Text style={styles.titulo}>Aventura</Text>
       <View style={styles.listaItem}>
+      <TouchableHighlight onPress={() => Linking.openURL('https://www.youtube.com/watch?v=IqZ48OcUHD8')}>
         <Image  style={styles.foto} source={require('../img/serieAventura1.jpg')} />
+        </TouchableHighlight>
         <View style={styles.data}>
             <Text style={styles.nombre}>The Mandalorian</Text>
             <Text style={styles.descripcion}>Temporadas: 2</Text>
@@ -61,7 +71,9 @@ return(
       </View>
 
       <View style={styles.listaItem}>
+      <TouchableHighlight onPress={() => Linking.openURL('https://www.youtube.com/watch?v=uFdqDMxlx88')}>
         <Image  style={styles.foto} source={require('../img/serieAventura2.jpg')} />
+        </TouchableHighlight>
         <View style={styles.data}>
             <Text style={styles.nombre}>Flecha</Text>
             <Text style={styles.descripcion}>Temporadas: 8</Text>
@@ -69,7 +81,9 @@ return(
       </View>
 
       <View style={styles.listaItem}>
+      <TouchableHighlight onPress={() => Linking.openURL('https://www.youtube.com/watch?v=CLVZmXzeZx8')}>
         <Image  style={styles.foto} source={require('../img/serieAventura3.jpg')} />
+        </TouchableHighlight>
         <View style={styles.data}>
             <Text style={styles.nombre}>Vikingos</Text>
             <Text style={styles.descripcion}>Temporadas: 5</Text>
@@ -77,7 +91,9 @@ return(
       </View>
 
       <View style={styles.listaItem}>
+      <TouchableHighlight onPress={() => Linking.openURL('https://www.youtube.com/watch?v=SfxgMQ0QZFg')}>
         <Image  style={styles.foto} source={require('../img/serieAventura4.jpg')} />
+        </TouchableHighlight>
         <View style={styles.data}>
             <Text style={styles.nombre}>Star Wars: La guerra de los clones</Text>
             <Text style={styles.descripcion}>Temporadas: 7</Text>
@@ -85,7 +101,9 @@ return(
       </View>
 
       <View style={styles.listaItem}>
+      <TouchableHighlight onPress={() => Linking.openURL('https://www.youtube.com/watch?v=wcvbK_k_MgI')}>
         <Image  style={styles.foto} source={require('../img/serieAventura5.jpg')} />
+        </TouchableHighlight>
         <View style={styles.data}>
             <Text style={styles.nombre}>Loki</Text>
             <Text style={styles.descripcion}>Temporadas: 1</Text>
@@ -97,7 +115,9 @@ return(
     <View style={styles.listado}>
     <Text style={styles.titulo}>Fantasia</Text>
       <View style={styles.listaItem}>
+      <TouchableHighlight onPress={() => Linking.openURL('https://www.youtube.com/watch?v=GYoxdM5t9Iw')}>
         <Image  style={styles.foto} source={require('../img/serieFantasia1.jpg')} />
+        </TouchableHighlight>
         <View style={styles.data}>
             <Text style={styles.nombre}>Merlín</Text>
             <Text style={styles.descripcion}>Temporadas: 5</Text>
@@ -105,7 +125,9 @@ return(
       </View>
 
       <View style={styles.listaItem}>
+      <TouchableHighlight onPress={() => Linking.openURL('https://www.youtube.com/watch?v=_l9HkDJnwLw')}>
         <Image  style={styles.foto} source={require('../img/serieFantasia2.jpg')} />
+        </TouchableHighlight>
         <View style={styles.data}>
             <Text style={styles.nombre}>The Flash</Text>
             <Text style={styles.descripcion}>Temporadas: 8</Text>
@@ -113,7 +135,9 @@ return(
       </View>
 
       <View style={styles.listaItem}>
+      <TouchableHighlight onPress={() => Linking.openURL('https://www.youtube.com/watch?v=VxfFBr-GoJI')}>
         <Image  style={styles.foto} source={require('../img/serieFantasia3.jpg')} />
+        </TouchableHighlight>
         <View style={styles.data}>
             <Text style={styles.nombre}>Supergirl</Text>
             <Text style={styles.descripcion}>Temporadas: 6</Text>
@@ -121,7 +145,9 @@ return(
       </View>
 
       <View style={styles.listaItem}>
+      <TouchableHighlight onPress={() => Linking.openURL('https://www.youtube.com/watch?v=H_G6yyibN9g')}>
         <Image  style={styles.foto} source={require('../img/serieFantasia4.jpg')} />
+        </TouchableHighlight>
         <View style={styles.data}>
             <Text style={styles.nombre}>DC: Leyendas del mañana</Text>
             <Text style={styles.descripcion}>Temporadas: 6</Text>
@@ -129,7 +155,9 @@ return(
       </View>
 
       <View style={styles.listaItem}>
+      <TouchableHighlight onPress={() => Linking.openURL('https://www.youtube.com/watch?v=ncTzwM2qw8E')}>
         <Image  style={styles.foto} source={require('../img/serieFantasia5.jpg')} />
+        </TouchableHighlight>
         <View style={styles.data}>
             <Text style={styles.nombre}>Titanes</Text>
             <Text style={styles.descripcion}>Temporadas: 1</Text>

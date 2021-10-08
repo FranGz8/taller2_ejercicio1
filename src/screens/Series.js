@@ -205,7 +205,9 @@ const styles = StyleSheet.create({
         fontWeight:'bold',
         fontSize:22,
         color:'rgb(0, 122, 255)',
-        left:50
+        left:50,
+        height:60,
+        width: 200,
     },
 
     descripcion:{

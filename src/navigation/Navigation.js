@@ -16,7 +16,7 @@ export default function Navigation(){
       <Tab.Screen name="Series" component={Series} options={{tabBarLabel:"Series", tabBarIcon: ({ color,size }) => (
           <Icon name="live-tv" size={size+10} color={color} />
         ) }}  />
-        <Tab.Screen name="Proximas" component={Proximas} options={{tabBarLabel:"Proximas", tabBarIcon: ({ color,size }) => (
+        <Tab.Screen name="Próximamente" component={Proximas} options={{tabBarLabel:"Proximas", tabBarIcon: ({ color,size }) => (
           <Icon name="queue-play-next" size={size+10} color={color} />
         ) }}  />
     </Tab.Navigator>
